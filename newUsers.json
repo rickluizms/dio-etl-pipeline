@@ -1,0 +1,198 @@
+[
+    {
+      "name": "Usuario 1",
+      "account": {
+        "number": "00001-9",
+        "agency": "0001",
+        "balance": 1000.0,
+        "limit": 500.0
+      },
+      "card": {
+        "number": "**** **** **** 1234",
+        "limit": 2000.0
+      }
+    },
+    {
+      "name": "Usuario 2",
+      "account": {
+        "number": "00002-9",
+        "agency": "0002",
+        "balance": 1500.0,
+        "limit": 600.0
+      },
+      "card": {
+        "number": "**** **** **** 5678",
+        "limit": 2500.0
+      }
+    },
+    {
+      "name": "Usuario 3",
+      "account": {
+        "number": "00003-9",
+        "agency": "0003",
+        "balance": 2000.0,
+        "limit": 700.0
+      },
+      "card": {
+        "number": "**** **** **** 9101",
+        "limit": 3000.0
+      }
+    },
+    {
+      "name": "Usuario 4",
+      "account": {
+        "number": "00004-9",
+        "agency": "0004",
+        "balance": 2500.0,
+        "limit": 800.0
+      },
+      "card": {
+        "number": "**** **** **** 1121",
+        "limit": 3500.0
+      }
+    },
+    {
+      "name": "Usuario 5",
+      "account": {
+        "number": "00005-9",
+        "agency": "0005",
+        "balance": 3000.0,
+        "limit": 900.0
+      },
+      "card": {
+        "number": "**** **** **** 3141",
+        "limit": 4000.0
+      }
+    },
+    {
+      "name": "Usuario 6",
+      "account": {
+        "number": "00006-9",
+        "agency": "0006",
+        "balance": 3500.0,
+        "limit": 1000.0
+      },
+      "card": {
+        "number": "**** **** **** 5161",
+        "limit": 4500.0
+      }
+    },
+    {
+      "name": "Usuario 7",
+      "account": {
+        "number": "00007-9",
+        "agency": "0007",
+        "balance": 4000.0,
+        "limit": 1100.0
+      },
+      "card": {
+        "number": "**** **** **** 7181",
+        "limit": 5000.0
+      }
+    },
+    {
+      "name": "Usuario 8",
+      "account": {
+        "number": "00008-9",
+        "agency": "0008",
+        "balance": 4500.0,
+        "limit": 1200.0
+      },
+      "card": {
+        "number": "**** **** **** 9201",
+        "limit": 5500.0
+      }
+    },
+    {
+      "name": "Usuario 9",
+      "account": {
+        "number": "00009-9",
+        "agency": "0009",
+        "balance": 5000.0,
+        "limit": 1300.0
+      },
+      "card": {
+        "number": "**** **** **** 1221",
+        "limit": 6000.0
+      }
+    },
+    {
+      "name": "Usuario 10",
+      "account": {
+        "number": "00010-9",
+        "agency": "0010",
+        "balance": 5500.0,
+        "limit": 1400.0
+      },
+      "card": {
+        "number": "**** **** **** 3241",
+        "limit": 6500.0
+      }
+    },
+    {
+      "name": "Usuario 11",
+      "account": {
+        "number": "00011-9",
+        "agency": "0011",
+        "balance": 6000.0,
+        "limit": 1500.0
+      },
+      "card": {
+        "number": "**** **** **** 5261",
+        "limit": 7000.0
+      }
+    },
+    {
+      "name": "Usuario 12",
+      "account": {
+        "number": "00012-9",
+        "agency": "0012",
+        "balance": 6500.0,
+        "limit": 1600.0
+      },
+      "card": {
+        "number": "**** **** **** 7281",
+        "limit": 7500.0
+      }
+    },
+    {
+      "name": "Usuario 13",
+      "account": {
+        "number": "00013-9",
+        "agency": "0013",
+        "balance": 7000.0,
+        "limit": 1700.0
+      },
+      "card": {
+        "number": "**** **** **** 9301",
+        "limit": 8000.0
+      }
+    },
+    {
+      "name": "Usuario 14",
+      "account": {
+        "number": "00014-9",
+        "agency": "0014",
+        "balance": 7500.0,
+        "limit": 1800.0
+      },
+      "card": {
+        "number": "**** **** **** 1321",
+        "limit": 8500.0
+      }
+    },
+    {
+      "name": "Usuario 15",
+      "account": {
+        "number": "00015-9",
+        "agency": "0015",
+        "balance": 8000.0,
+        "limit": 1900.0
+      },
+      "card": {
+        "number": "**** **** **** 3341",
+        "limit": 9000.0
+      }
+    }
+  ]
+  
